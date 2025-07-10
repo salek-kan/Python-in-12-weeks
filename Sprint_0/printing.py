@@ -7,4 +7,4 @@ is_subscribed: bool = False
 
 print(f"Hi {name:s},")
 print(f"Your current balance is : ${Balance:>5.2f}")
-print(f"Subsribtion : {is_subscribed:>13b}")
+print(f"Subscribtion : {is_subscribed:>12b}")
