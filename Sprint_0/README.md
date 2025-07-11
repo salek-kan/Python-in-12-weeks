@@ -12,10 +12,10 @@ Working on this milestone was fun, I learned a lot of things unintentionally fro
 
 - bools are sub-class of int, they inherits a lot of int’s functions or methods, `True + True` would output 2.
 - `input()` returns `''` an empty string is passed (i.e. no input), when converted to `bool` its `False`.
-- type conversion can be implicit or explicit, a powerful feature.
-- f-strings are faster than `‘%’` and `.format`
-- how to type annotate, which is in my opinion is a good habit for the long-term.
-- triple quotes are not only for docstring but are mainly for longer formatted string (e.g. an email).
+- type conversion can be implicit (python converts the type, e.g. when adding two numirical vars with different types)or explicit (Dev explicitly convert the type using builtins `str()`, `int()`, ...), a powerful feature.
+- f-strings are faster than `‘%’` and `.format()`
+- how to type annotate, which is in my opinion a good habit for the long-term.
+- triple quotes are not only for docstrings but are mainly for longer formatted string (e.g. an email).
 - Mad libs, it was so hilarious to experience with different words.
 - `print()` seems simple but it is so powerful, and shows how well python is built.
 
