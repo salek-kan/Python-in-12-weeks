@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """This program should print a story based on user input,
-a Madlab game as a python program.
+a Mad libs game as a python program.
 """
-print("""Welcome to my Madlab!
+print("""Welcome to my Mad libs!
 
       You'll be asked for a set of words (e.g. adjectives, noun, ...)
       and you should provide them based on the number specified and
